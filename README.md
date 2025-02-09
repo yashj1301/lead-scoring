@@ -5,13 +5,15 @@
 This project is a Lead Scoring Case Study, built as part of the UpGrad Data Science course, to help businesses identify high-converting leads using Machine Learning models.
 
 <h4>🎯 Objectives</h4>
-1. Understand lead conversion behavior based on given features
-2. Clean & preprocess data to handle missing values, outliers
-3. Feature Engineering to extract useful insights
-4. Build ML models to predict lead conversion probability
-5. Evaluate models and deploy the best-performing one
+
+1.  Understand lead conversion behavior based on given features
+2.  Clean & preprocess data to handle missing values, outliers  
+3. Feature Engineering to extract useful insights  
+4. Build ML models to predict lead conversion probability  
+5. Evaluate models and deploy the best-performing one  
 
 <h4>🛠️ Tech Stack & Tools</h4>
+
 1. Programming Language: Python
 2. Data Handling: Pandas, NumPy
 3. Machine Learning: Scikit-Learn, Logistic Regression
